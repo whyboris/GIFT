@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ block "all-head" . }}{{ partial "head.html" . }}{{ end }}
+  </head>
+
+  <body>
+
+    <div class="layout-container">
+
+      <div class="header-div">
+
+        <a aria-current="page" class="site-title" href="/">{{ .Site.Title }}</a>
+
+        {{ partial "site-navigation.html" . }}
+      
+      </div>
+
+      <main role="main">
+        {{ block "main" . }}{{ end }}
+      </main>
+    
+    </div>
+
+  </body>
+</html>

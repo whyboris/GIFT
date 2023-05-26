@@ -1,0 +1,13 @@
+baseURL = 'https://gift.org/'
+googleAnalytics = "G-ABC123"
+languageCode = 'en-us'
+title = 'GIFT - Green Impact Fund for Transformation'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
+[Params]
+  images = ["img/social.png"]
+  production = true
+  description = "Green Impact Fund for Transformation"

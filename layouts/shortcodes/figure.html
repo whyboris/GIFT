@@ -1,0 +1,22 @@
+{{ if .Get "link" }}
+  <a href="{{ .Get "link" }}">
+{{ end }}
+  <div class="gallery-item">
+    <img src="{{ .Get "image" }}" width=330px alt="{{ .Get "title" }}">
+
+    <div class="description">
+
+      <span class="item-title">{{ .Get "title" }}</span>
+
+      {{ if .Get "time" }}
+        <span class="date">{{ .Get "time" }}</span>
+      {{ end }}
+
+      <span class="item-description">{{ .Get "copy" }}</span>
+
+    </div>
+  
+  </div>
+{{ if .Get "link" }}
+  </a>
+{{ end }}

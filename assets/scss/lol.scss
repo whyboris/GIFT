@@ -1,0 +1,42 @@
+@import "navigation";
+@import "styles";
+@import "mobile";
+
+h1 {
+  margin-bottom: 0;
+}
+
+.profile-photo {
+  float: left;
+  width: 200px;
+  margin-right: 30px;
+}
+
+.align-right {
+  float: right;
+  margin-right: 0;
+  margin-left: 30px;
+}
+
+.credentials {
+  font-size: 14px;
+  color: #333;
+}
+
+.pronouns {
+  font-size: 12px;
+  color: #555;
+  display: block;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  // display: flex;
+  // justify-content: space-evenly;
+  // flex-wrap: wrap;
+
+  div {
+    min-width: 200px;
+  }
+}
