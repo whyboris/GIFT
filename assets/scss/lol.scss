@@ -40,3 +40,39 @@ h1 {
     min-width: 200px;
   }
 }
+
+
+
+// new stuff
+
+.footnote-number {
+  background: #eee;
+  border-radius: 3px;
+  color: #000;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 1px 3px;
+  margin-left: 1px;
+  transform: translateY(-8px);
+}
+
+
+.littlefoot-footnote__content > p {
+  font-size: 14px !important;
+  margin: 10px 0 !important;
+  line-height: 24px;
+}
+
+.littlefoot-footnote__wrapper {
+  min-width: 500px;
+}
+
+.littlefoot-footnote__content {
+  max-height: 500px !important;
+
+  p {
+    min-width: 450px;
+  }
+}

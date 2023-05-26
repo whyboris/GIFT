@@ -78,3 +78,17 @@
     width: 100% !important;
   }
 }
+
+
+// new stuff
+@media only screen and (max-width: 850px) {
+  .littlefoot-footnote__wrapper {
+    min-width: 100vw;
+  }
+
+  .littlefoot-footnote__content {
+    p {
+      min-width: initial;
+    }
+  }
+}
