@@ -5,7 +5,7 @@
   margin-bottom: 40px;
 
   a {
-    color: #757575;
+    color: #333;
     transition: color 0.2s ease;
     text-decoration: none;
 
@@ -19,7 +19,7 @@
     font-weight: 500;
   }
 
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 860px) {
     display: block;
   }
 }

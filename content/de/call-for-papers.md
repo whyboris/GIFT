@@ -3,15 +3,24 @@ title: Call for papers
 date: '2023-03-03'
 ---
 
+<img src="/img/springer-logo.svg" class="ucalgary">
+<img src="/img/UCalgary.svg" class="ucalgary">
+
 {{< pdf url="lol.pdf" >}}
 
 ## Call for Abstracts
 
+Herausgeber:
+
+Prof. Aidan Hollis, Prof. Clara Brandi, Prof. Magdalene Silberberger,
+
+Dr. Sebastian Kistler, Max Alexander Matthey, Benjamin Roth
+
 **Sammelband:**
 
-**Der Green Impact Fund for Transformation:
+Der Green Impact Fund for Transformation:
 
-Grüne Transformation im Globalen Süden als Beitrag zur Eindämmung der Klimakrise**
+Grüne Transformation im Globalen Süden als Beitrag zur Eindämmung der Klimakrise
 
 Eine aus dem Yale Global Justice Program entstandene, internationale Arbeitsgruppe wird einen Sammelband im Springer Verlag für Sozialwissenschaften herausgeben. Das Buch soll in der von Prof. Dr. Andrea Maurer (Universität Trier) verantworteten Reihe „Wirtschaft + Gesellschaft“ als bilingualer Band erscheinen in englischer und deutscher Sprache erscheinen. Thematisch wird er sich mit dem bereits auf der COP27 in Ägypten und dem T7-Treffen in Deutschland vorgestellten „Green Impact Fund for Transformation“ und dessen theoretischen und methodischen Voraussetzungen auseinandersetzen.
 
@@ -53,11 +62,11 @@ Der GIFT versteht sich als ein Mechanismus, der die globale Umwelt dadurch schü
 
 Wir wünschen uns Vorschläge und Einreichungen in Form eines maximal zweiseitigen Abstracts und eines kurzen Lebenslaufs. Einsendeschluss ist der 19. September 2023. In dem Abstract sollte eine wissenschaftliche Fragestellung / Hypothese erkennbar sein. Ebenso sollten verwendete Theorien und Methoden, die verwendete Literatur sowie eine Einordnung in den aktuellen wissenschaftlichen Diskurs und der Zusammenhang mit einem der oben genannten Schwerpunkte des Sammelbandes deutlich werden.
 
-    1. Nach einer Begutachtungsphase der Abstracts durch das Redaktionsteam, erfolgt bis Ende Oktober 2023 eine Rückmeldung.
-    2. Sollte ein Beitrag auf Grundlage des Abstracts angenommen werden, kommt es zu einem Autorenvertrag zwischen dem/der Autor*in und dem VS Springer Verlag.
-    3. Vom 23. bis 24. November 2023 findet eine Konferenz an der Universität Regensburg statt, wozu alle Wissenschaftler*innen, deren Beiträge angenommen wurden, eingeladen sind, im Rahmen eines kurzen Vortrages mit anschließender Diskussion, ihren Beitrag den Herausgeber*innen und den anderen Autor*innen vorzustellen. Die Teilnahme an dieser Konferenz wird dringend empfohlen. <span style="text-decoration:underline;">Für Beiträge von Wissenschaftler*innen, die außerhalb Deutschlands ansässig sind, wird es zur Abstractvorstellung ein eigenes online-Format geben, dessen Termin noch bekannt gegeben wird.  </span>
-    4. Daran schließt sich dann eine Schreibphase bis voraussichtlich zum 31. Juli 2024 an.
-    5. Die Beiträge werden nach der Schreibphase erneut im Rahmen eines Peer-Review Verfahren geprüft. Die Anmerkungen und Verbesserungsvorschläge werden den jeweiligen Autor*innen für die Überarbeitung zur Verfügung gestellt.
+1. Nach einer Begutachtungsphase der Abstracts durch das Redaktionsteam, erfolgt bis Ende Oktober 2023 eine Rückmeldung.
+2. Sollte ein Beitrag auf Grundlage des Abstracts angenommen werden, kommt es zu einem Autorenvertrag zwischen dem/der Autor*in und dem VS Springer Verlag.
+3. Vom 23. bis 24. November 2023 findet eine Konferenz an der Universität Regensburg statt, wozu alle Wissenschaftler*innen, deren Beiträge angenommen wurden, eingeladen sind, im Rahmen eines kurzen Vortrages mit anschließender Diskussion, ihren Beitrag den Herausgeber*innen und den anderen Autor*innen vorzustellen. Die Teilnahme an dieser Konferenz wird dringend empfohlen. <span style="text-decoration:underline;">Für Beiträge von Wissenschaftler\*innen, die außerhalb Deutschlands ansässig sind, wird es zur Abstractvorstellung ein eigenes online-Format geben, dessen Termin noch bekannt gegeben wird.</span>
+4. Daran schließt sich dann eine Schreibphase bis voraussichtlich zum 31. Juli 2024 an.
+5. Die Beiträge werden nach der Schreibphase erneut im Rahmen eines Peer-Review Verfahren geprüft. Die Anmerkungen und Verbesserungsvorschläge werden den jeweiligen Autor*innen für die Überarbeitung zur Verfügung gestellt.
 
 Bitte unbedingt beachten: Einsendungen bitte bis zum 19. September 2023 im .doc Format (NICHT als PDF!) mit einem kurzen Lebenslauf an [ahollis@ucalgary.ca](mailto:ahollis@ucalgary.ca) senden.
 

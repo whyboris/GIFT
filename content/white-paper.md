@@ -5,6 +5,8 @@ date: '2023-03-03'
 
 {{< pdf url="lol.pdf" >}}
 
+## White paper
+
 The _Green Impact Fund for Transformation_ (GIFT) is a proposed market-based mechanism to support efficient reduction of greenhouse gas emissions in developing countries. We are seeking your views and comments, including on the feasibility and the value of such a fund. Thanks to extensive input from many individuals, this discussion of the GIFT is substantially revised as of April 2023.
 
 ## 0. Executive Summary
@@ -51,7 +53,7 @@ The GIFT mechanism builds upon the  extensive experience with voluntary carbon c
 
 Carbon offsets are often seen as unhelpful as they legitimize  a carbon-emitting activity, such as international air travel, to be justified by an emissions reduction elsewhere. This is particularly undesirable if the emissions reduction exists only on paper (which may occur when verification is faulty). The GIFT mechanism, however, is not an offset mechanism. It merely uses the same mechanism to identify and support emissions reductions. In effect, it would create a centralized, standardized market offering a price at which emissions reduction activities in developing countries would be subsidized.
 
-One effect of the voluntary carbon market is that there is extensive existing experience with carbon credits. Moreover, TUEV SUED, an international technical inspection association based in Germany, has expressed its support for the GIFT mechanism and states in a [supportive letter](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1129/files/2022/06/TU%CC%88V.pdf)that “in summary, assessment of emissions averted through the deployment of new green technologies is feasible. TUEV SUED and similar organisations already have the pertinent practical experience needed for such an effort.”
+One effect of the voluntary carbon market is that there is extensive existing experience with carbon credits. Moreover, TUEV SUED, an international technical inspection association based in Germany, has expressed its support for the GIFT mechanism and states in a [supportive letter](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1129/files/2022/06/TU%CC%88V.pdf) that “in summary, assessment of emissions averted through the deployment of new green technologies is feasible. TUEV SUED and similar organisations already have the pertinent practical experience needed for such an effort.”
 
 ### 2.3 Cost Control
 

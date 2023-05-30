@@ -3,9 +3,18 @@ title: Call for papers
 date: '2023-03-03'
 ---
 
-{{< pdf url="lol.pdf" >}}
+<img src="/img/springer-logo.svg" class="ucalgary">
+<img src="/img/UCalgary.svg" class="ucalgary">
 
 ## Call for Abstracts
+
+{{< pdf url="lol.pdf" >}}
+
+Editors:
+
+Prof. Aidan Hollis, Prof. Clara Brandi, Prof. Magdalene Silberberger,
+
+Dr. Sebastian Kistler, Max Alexander Matthey, Benjamin Roth
 
 **Anthology:**
 
