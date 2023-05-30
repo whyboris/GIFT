@@ -3,6 +3,8 @@ title: Call for papers
 date: '2023-03-03'
 ---
 
+{{< pdf url="lol.pdf" >}}
+
 ## Call for Abstracts
 
 **Sammelband:**
@@ -11,11 +13,11 @@ date: '2023-03-03'
 
 Grüne Transformation im Globalen Süden als Beitrag zur Eindämmung der Klimakrise**
 
-Eine aus dem Yale Global Justice Program entstandene, internationale Arbeitsgruppe wird einen Sammelband im Springer Verlag für Sozialwissenschaften herausgeben. Das Buch soll in der von Prof. Dr. Andrea Maurer (Universität Trier) verantworteten Reihe „Wirtschaft + Gesellschaft“ als bilingualer Band erscheinen in englischer und deutscher Sprache erscheinen. Thematisch wird er sich mit dem bereits auf der COP27 in Ägypten und dem T7-Treffen in Deutschland vorgestellten „Green Impact Fund for Transformation“ und dessen theoretischen und methodischen Voraussetzungen auseinandersetzen.  
+Eine aus dem Yale Global Justice Program entstandene, internationale Arbeitsgruppe wird einen Sammelband im Springer Verlag für Sozialwissenschaften herausgeben. Das Buch soll in der von Prof. Dr. Andrea Maurer (Universität Trier) verantworteten Reihe „Wirtschaft + Gesellschaft“ als bilingualer Band erscheinen in englischer und deutscher Sprache erscheinen. Thematisch wird er sich mit dem bereits auf der COP27 in Ägypten und dem T7-Treffen in Deutschland vorgestellten „Green Impact Fund for Transformation“ und dessen theoretischen und methodischen Voraussetzungen auseinandersetzen.
 
 Dieser Aufruf richtet sich an Wissenschaftler*innen aller Disziplinen, die sich mit der Bekämpfung des menschengemachten Klimawandels auseinandersetzen. Im Besonderen sind damit die Klimawissenschaften, die Umweltökonomie und -soziologie, das Umweltrecht sowie die Umwelt- und Wirtschaftsethik und Politikwissenschaft angesprochen. Es sind sowohl Einzelbeiträge als auch Einreichungen über Autorengruppen möglich. Ferner sind Nachwuchswissenschaftler*innen herzlich eingeladen Beiträge einzureichen.
 
-   Der Sammelband soll etwa 15 Beiträge (ca. 300 Seiten) mit je 15-25 Seiten (ca. 2.700 Zeichen pro Druckseite, inkl. Leerzeichen) enthalten. Literaturverzeichnisse und Grafiken werden hierbei nicht berücksichtigt. Geringfügige Abweichungen sind möglich. Das einzureichende Abstract sollte eine Länge von zwei Seiten nicht überschreiten. 
+   Der Sammelband soll etwa 15 Beiträge (ca. 300 Seiten) mit je 15-25 Seiten (ca. 2.700 Zeichen pro Druckseite, inkl. Leerzeichen) enthalten. Literaturverzeichnisse und Grafiken werden hierbei nicht berücksichtigt. Geringfügige Abweichungen sind möglich. Das einzureichende Abstract sollte eine Länge von zwei Seiten nicht überschreiten.
 
 **Der Sammelband wird drei thematische Schwerpunkte beinhalten, zu denen entsprechende Beiträge eingereicht werden können:**
 
@@ -25,11 +27,11 @@ Bisher können effektive Klimaschutzmaßnahmen nur von wohlhabenden Staaten impl
 
 Hierzu sollen Prämien ausgeschüttet werden, deren Höhe sich an der tatsächlich eingesparten CO₂-Menge bemessen. Die Finanzierung des Mechanismus erfolgt aufgrund der historischen Verantwortung und daraus resultierenden internationalen und völkerrechtlichen Verpflichtungen durch die Industrienationen. Die Prämien kann je nach Ausgestaltung des Mechanismus sowohl der Technologie-Anwender als auch der Technologie-Verkäufer erhalten.
 
-Beiträge zu diesem Themenblock, können sich beispielsweise mit folgenden Fragen auseinandersetzen.  
+Beiträge zu diesem Themenblock, können sich beispielsweise mit folgenden Fragen auseinandersetzen.
 
 * Welche Verantwortung trägt der Globale Norden bei der Bekämpfung der Klimakrise? Welche normativen Prinzipien (Klimagerechtigkeit, Gemeinwohl, Effektivität, Innovativität, Solidarität etc.) sind hierbei von besonderer Bedeutung?
 * Welche Bedeutung kommen bei der globalen Klimaschutz- und Innovationspolitik finanziellen Anreize, Strukturreformen und der allgemeinen ökonomischen Rationalität (bspw. ordnungs- und wirtschaftsethisch) zu?
-* Welche Rolle spielen private Akteure (Unternehmen, NGOs, Public-Private-Partnerships) für die Bekämpfung der Klimakrise? (Wie) können sich diese als ‚Good Corporate Citizen‘ aktiv an Problemlösungsstrategien oder Fondlösungen am GIFT beteiligen?  
+* Welche Rolle spielen private Akteure (Unternehmen, NGOs, Public-Private-Partnerships) für die Bekämpfung der Klimakrise? (Wie) können sich diese als ‚Good Corporate Citizen‘ aktiv an Problemlösungsstrategien oder Fondlösungen am GIFT beteiligen?
 * Welche Kompetenzen, Perspektiven und Verantwortlichkeiten bringen Akteure vor Ort zur Lösung der Klimakrise ein? Wie wird beispielsweise im Globalen Süden das Spannungsverhältnis zwischen Wirtschaftswachstum und Klimaschutz konzeptualisiert? Welche Hürden lassen sich für einen Mechanismus wie den Green Impact Fund ausmachen?
 
 ## 2. Climate Policy – Ideen, Maßnahmen und deren Kritik
@@ -45,7 +47,7 @@ Der GIFT versteht sich als ein Mechanismus, der die globale Umwelt dadurch schü
 
 * Welche Potenziale birgt der GIFT und welchen bisher ungesehenen Risiken ist er ausgesetzt?
 * Sollte der GIFT sich auf patentbasierte Produkte beschränken, nur CO₂-neutrale Produkte fördern oder sich für alle Produkte öffnen, die den CO₂-Ausstoß im Vergleich zu einer Baseline senken können?
-* Welche Risiken für Fehlanreize birgt der bestehende GIFT-Mechanismus? Wie kann diesen begegnet werden?  
+* Welche Risiken für Fehlanreize birgt der bestehende GIFT-Mechanismus? Wie kann diesen begegnet werden?
 
 ## Zum CfA-Verfahren
 

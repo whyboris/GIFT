@@ -3,6 +3,8 @@ title: Call for papers
 date: '2023-03-03'
 ---
 
+{{< pdf url="lol.pdf" >}}
+
 ## Call for Abstracts
 
 **Anthology:**

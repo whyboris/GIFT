@@ -2,7 +2,7 @@
 body {
   background: #eeeeee;
   margin: 0;
-  
+
   * {
     // border: 1px solid red;
     font-family: "Segoe UI", Helvetica, Arial, sans-serif;
@@ -37,12 +37,6 @@ main {
   }
 }
 
-img {
-  border-radius: 5px;
-  border: 1px solid #666666;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-}
-
 a {
   color: #0057ad;
   text-decoration: none;
@@ -70,58 +64,3 @@ a {
   }
 }
 
-
-.section {
-  display: flex;
-  margin-bottom: 40px;
-
-  a {
-    display: block;
-  }
-
-  .box-div {
-    margin-right: 20px;
-    min-width: 200px;
-    max-width: 200px;
-
-    h2 {
-      margin-top: 0;
-      margin-bottom: 12px;
-    }
-  }
-
-  .gallery-div {
-    padding: 0;
-    margin: 0;
-  }
-
-  .gallery-item {
-    display: flex;
-    margin-bottom: 24px;
-
-    img {
-      display: inline-block;
-    }
-
-    .item-title {
-      display: block;
-      font-size: 20px;
-      font-weight: 500;
-      margin: 10px 20px 0;
-    }
-    
-    .item-description {
-      display: block;
-      color: #757575;
-      margin: 20px;
-      line-height: 28px;
-    }
-  }
-}
-
-.date {
-  color: #666666;
-  display: block;
-  font-size: 12px;
-  margin: 6px 20px;
-}

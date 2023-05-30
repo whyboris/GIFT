@@ -10,16 +10,16 @@
 
       <div class="header-div">
 
-        <a aria-current="page" class="site-title" href="/">{{ .Site.Title }}</a>
+        <a aria-current="page" class="site-title" href="/"><img src="/img/logo.png" class="site-logo"></a>
 
         {{ partial "site-navigation.html" . }}
-      
+
       </div>
 
-      <main role="main">
+      <main role="main" class="page-body">
         {{ block "main" . }}{{ end }}
       </main>
-    
+
     </div>
 
     {{ block "footnotes-script" . }}{{ partial "footnotes-script" . }}{{ end }}
