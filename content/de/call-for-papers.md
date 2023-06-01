@@ -63,7 +63,7 @@ Der GIFT versteht sich als ein Mechanismus, der die globale Umwelt dadurch schü
 
 ## Zum CfA-Verfahren
 
-Wir wünschen uns Vorschläge und Einreichungen in Form eines maximal zweiseitigen Abstracts und eines kurzen Lebenslaufs. Einsendeschluss ist der 19. September 2023. In dem Abstract sollte eine wissenschaftliche Fragestellung / Hypothese erkennbar sein. Ebenso sollten verwendete Theorien und Methoden, die verwendete Literatur sowie eine Einordnung in den aktuellen wissenschaftlichen Diskurs und der Zusammenhang mit einem der oben genannten Schwerpunkte des Sammelbandes deutlich werden.
+Wir wünschen uns Vorschläge und Einreichungen in Form eines maximal zweiseitigen Abstracts und eines kurzen Lebenslaufs. <span class="deadline">Einsendeschluss ist der 19. September 2023.</span> In dem Abstract sollte eine wissenschaftliche Fragestellung / Hypothese erkennbar sein. Ebenso sollten verwendete Theorien und Methoden, die verwendete Literatur sowie eine Einordnung in den aktuellen wissenschaftlichen Diskurs und der Zusammenhang mit einem der oben genannten Schwerpunkte des Sammelbandes deutlich werden.
 
 1. Nach einer Begutachtungsphase der Abstracts durch das Redaktionsteam, erfolgt bis Ende Oktober 2023 eine Rückmeldung.
 2. Sollte ein Beitrag auf Grundlage des Abstracts angenommen werden, kommt es zu einem Autorenvertrag zwischen dem/der Autor*in und dem VS Springer Verlag.
@@ -75,6 +75,6 @@ Bitte unbedingt beachten: Einsendungen bitte bis zum 19. September 2023 im .doc 
 
 <center>
 
-Weitere Informationen finden Sie im Internet: **[White Paper](https://bit.ly/GIFTdp2023)**
+Weitere Informationen finden Sie im Internet: **[White Paper](/white-paper)**
 
 </center>

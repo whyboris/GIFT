@@ -1,8 +1,10 @@
 # GIFT - Green Impact Fund for Transformation
 
-Built with _Hugo_
+Official repository for [greenimpactfund.de](https://www.greenimpactfund.de/)
 
-[GIFT.org](https://GIFT.org)
+## Developing
+
+Built with _Hugo_
 
 ## Thank you
 

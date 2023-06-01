@@ -35,7 +35,7 @@ The anthology should contain about 15 contributions (approx. 300 pages) of 15-25
 
 #### a) Normative and theoretical foundations of climate policy and global innovation policy
 
-So far, effective climate protection measures can chiefly be implemented by wealthy countries, as the countries of the Global South lack the needed financial resources. However, this poses an enormous problem for global efforts to mitigate climate change, as these countries are expected to experience the highest growth rates in greenhouse gas emissions in the coming decades. As a competitive mechanism, the Green Impact Fund for Transformation (GIFT) would promote CO<sub>2</sub>e-reducing investments in the Global South through appropriate financial incentives. To this end, premiums are to be paid out, the amount of which will be determined by the actual amount of CO<sub>2</sub>e saved. High-income nations would finance the mechanism based on their historical responsibility and the resulting obligations under international law.
+So far, effective climate protection measures can chiefly be implemented by wealthy countries, as the countries of the Global South lack the needed financial resources. However, this poses an enormous problem for global efforts to mitigate climate change, as these countries are expected to experience the highest growth rates in greenhouse gas emissions in the coming decades. As a competitive mechanism, the Green Impact Fund for Transformation (GIFT) would promote CO₂e-reducing investments in the Global South through appropriate financial incentives. To this end, premiums are to be paid out, the amount of which will be determined by the actual amount of CO₂e saved. High-income nations would finance the mechanism based on their historical responsibility and the resulting obligations under international law.
 
 Contributions to this thematic block can, for example, address the following questions:
 
@@ -61,7 +61,7 @@ The GIFT sees itself as a mechanism to protect the global environment by incenti
 
 ## On the Call for Abstracts Procedure
 
-We seek proposals and submissions in the form of a maximum two-page abstract and a short CV. The deadline for submissions is 19 September 2023. A scientific question/hypothesis should be recognizable in the abstract. Likewise, the theories and methods used, the literature used, a classification in the current scientific discourse, and the connection with one of the above-mentioned focal points of the anthology should be made clear.
+We seek proposals and submissions in the form of a maximum two-page abstract and a short CV. <span class="deadline">The deadline for submissions is 19 September 2023</span>. A scientific question/hypothesis should be recognizable in the abstract. Likewise, the theories and methods used, the literature used, a classification in the current scientific discourse, and the connection with one of the above-mentioned focal points of the anthology should be made clear.
 
 1. After a review phase of the abstracts by the editorial team, feedback will be given by the end of October 2023.
 2. If a contribution is accepted based on the abstract, an author contract will be concluded between the author and VS Springer Verlag.
