@@ -6,6 +6,7 @@ h1 {
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
+  padding-left: 40px;
 }
 
 h4 {
@@ -48,9 +49,8 @@ code {
 
 .pdf-icon {
   max-width: 30px;
-  position: absolute;
-  right: 0px;
-  transform: translateY(8px);
+  margin-left: 10px;
+  transform: translateY(4px);
 }
 
 .site-logo {

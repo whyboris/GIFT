@@ -3,12 +3,10 @@ title: Call for Abstracts
 date: '2023-03-03'
 ---
 
-<img src="/img/springer-logo.svg" class="abstract-image" alt="Springer logo">
-<img src="/img/UCalgary.svg" class="abstract-image" alt="University of Calgary logo">
+<img src="/img/springer-logo.svg" class="abstract-image" alt="Springer logo" width="170">
+<img src="/img/UCalgary.svg" class="abstract-image" alt="University of Calgary logo" with="200">
 
-{{< pdf url="lol.pdf" >}}
-
-# Call for Abstracts
+# Call for Abstracts {{< pdf url="lol.pdf" >}}
 
 <center>
 
