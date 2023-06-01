@@ -8,7 +8,7 @@ Built with _Hugo_
 
 ## PDF
 
-To generate PDFs for the website, see the [PDF readme](/pdf/pdf.md)
+To generate PDFs for the website, see the [PDF readme](/pdf/README.md)
 
 ## Thank you
 
