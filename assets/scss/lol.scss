@@ -28,6 +28,12 @@ h1 {
   max-width: 300px;
 }
 
+.footer {
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+}
+
 // new stuff
 
 .footnote-number {
@@ -42,7 +48,6 @@ h1 {
   margin-left: 1px;
   transform: translateY(-8px);
 }
-
 
 .littlefoot-footnote__content > p {
   font-size: 14px !important;

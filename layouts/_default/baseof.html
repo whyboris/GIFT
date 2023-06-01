@@ -20,6 +20,8 @@
         {{ block "main" . }}{{ end }}
       </main>
 
+      {{ block "footer" . }}{{ partial "footer" . }}{{ end }}
+
     </div>
 
     {{ block "footnotes-script" . }}{{ partial "footnotes-script" . }}{{ end }}
