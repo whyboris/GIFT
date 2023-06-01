@@ -3,15 +3,35 @@
 @import "mobile";
 
 h1 {
+  text-align: center;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
-.ucalgary {
+h4 {
+  text-decoration: underline;
+}
+
+pre {
+  margin: 0;
+}
+
+.no-padding {
+  padding: 0;
+  margin: 0;
+}
+
+.abstract-image {
   max-width: 200px;
   margin-left: auto;
   margin-right: auto;
   display: block;
   min-width: 170px;
+}
+
+.emphasis {
+  font-weight: bold;
+  color: #106fbd;
 }
 
 .page-body {

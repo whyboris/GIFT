@@ -20,15 +20,16 @@ h1 {
 
 h2 {
   font-size: 22px;
+  margin-top: 0;
 }
 
-p {
+p, li {
   line-height: 30px;
 }
 
 main {
   ul {
-    padding-inline-start: 12px;
+    padding-inline-start: 20px;
   }
 
   li {

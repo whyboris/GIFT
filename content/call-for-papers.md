@@ -1,28 +1,31 @@
 ---
-title: Call for papers
+title: Call for Abstracts
 date: '2023-03-03'
 ---
 
-<img src="/img/springer-logo.svg" class="ucalgary">
-<img src="/img/UCalgary.svg" class="ucalgary">
-
-## Call for Abstracts
+<img src="/img/springer-logo.svg" class="abstract-image">
+<img src="/img/UCalgary.svg" class="abstract-image">
 
 {{< pdf url="lol.pdf" >}}
 
-Editors:
+# Call for Abstracts
 
-Prof. Aidan Hollis, Prof. Clara Brandi, Prof. Magdalene Silberberger,
+<center>
 
-Dr. Sebastian Kistler, Max Alexander Matthey, Benjamin Roth
+_Editors:_
 
-**Anthology:**
+    Prof. Aidan Hollis, Prof. Clara Brandi, Prof. Magdalene Silberberger,
+    Dr. Sebastian Kistler, Max Alexander Matthey, Benjamin Roth
 
-**The Green Impact Fund for Transformation:**
+### Anthology
 
-**Green Transformation in the Global South as a Contribution to Mitigating the Climate Crisis**
+<span class="emphasis">The Green Impact Fund for Transformation:</span>
 
-An international working group that emerged from the Yale Global Justice Program will publish an anthology with “Springer Verlag für Sozialwissenschaften”. The book will be published as a bilingual volume in English and German in the "Economy + Society" series, for which Prof. Dr. Andrea Maurer (University of Trier) is responsible. Thematically, it will deal with the „Green Impact Fund for Transformation” presented at the COP27 in Egypt and the T7 meeting in Germany and its theoretical and methodological prerequisites.
+<span class="emphasis">Green Transformation in the Global South as a Contribution to Mitigating the Climate Crisis</span>
+
+</center>
+
+An international working group that emerged from the _Yale Global Justice Program_ will publish an anthology with “_Springer Verlag für Sozialwissenschaften_”. The book will be published as a bilingual volume in English and German in the "Economy + Society" series, for which Prof. Dr. Andrea Maurer (University of Trier) is responsible. Thematically, it will deal with the “_Green Impact Fund for Transformation_” presented at the COP27 in Egypt and the T7 meeting in Germany and its theoretical and methodological prerequisites.
 
 This call is addressed to scientists of all disciplines who are concerned with the fight against anthropogenic climate change. This includes climate science, environmental economics and sociology, environmental law, environmental and business ethics, and political science. Both individual contributions and submissions by groups of authors are possible. Furthermore, young researchers are encouraged to submit contributions.
 
@@ -30,9 +33,9 @@ The anthology should contain about 15 contributions (approx. 300 pages) of 15-25
 
 **The anthology will contain three thematic focal points to which contributions can be submitted:**
 
-## 1. Normative and theoretical foundations of climate policy and global innovation policy
+#### a) Normative and theoretical foundations of climate policy and global innovation policy
 
-So far, effective climate protection measures can chiefly be implemented by wealthy countries, as the countries of the Global South lack the needed financial resources. However, this poses an enormous problem for global efforts to mitigate climate change, as these countries are expected to experience the highest growth rates in greenhouse gas emissions in the coming decades. As a competitive mechanism, the Green Impact Fund for Transformation (GIFT) would promote CO2e-reducing investments in the Global South through appropriate financial incentives. To this end, premiums are to be paid out, the amount of which will be determined by the actual amount of CO2e saved. High-income nations would finance the mechanism based on their historical responsibility and the resulting obligations under international law.
+So far, effective climate protection measures can chiefly be implemented by wealthy countries, as the countries of the Global South lack the needed financial resources. However, this poses an enormous problem for global efforts to mitigate climate change, as these countries are expected to experience the highest growth rates in greenhouse gas emissions in the coming decades. As a competitive mechanism, the Green Impact Fund for Transformation (GIFT) would promote CO<sub>2</sub>e-reducing investments in the Global South through appropriate financial incentives. To this end, premiums are to be paid out, the amount of which will be determined by the actual amount of CO<sub>2</sub>e saved. High-income nations would finance the mechanism based on their historical responsibility and the resulting obligations under international law.
 
 Contributions to this thematic block can, for example, address the following questions:
 
@@ -41,14 +44,14 @@ Contributions to this thematic block can, for example, address the following que
 * What role do private actors (companies, NGOs, public-private partnerships) play in combating the climate crisis? How can they actively participate as 'good corporate citizens in problem-solving strategies or fund solutions at GIFT?
 * What competencies, perspectives and responsibilities do local actors bring to addressing the climate crisis? For example, how is the tension between economic growth and climate protection conceptualized in the Global South? What obstacles can be identified for a mechanism like the Green Impact Fund?
 
-## 2. Climate Policy - Ideas, Measures, and their Criticism
+#### b) Climate Policy - Ideas, Measures, and their Criticism
 
 The GIFT is not the first proposal for incentive-based reduction of CO₂ emissions. Other carbon pricing schemes are carbon taxes and emissions trading as practiced in Australia, Japan, or the EU. Submissions to this thematic block should deal with the different systems and mechanisms of climate policy. For example, the following questions could be addressed:
 
 * What are the advantages and disadvantages of existing carbon pricing systems? What are the potential abuses, and how can they be counteracted?
 * The GIFT is a system of performance-based subsidies. This requires an estimation of the alternative (subsidy-free) outcome, as would be the case for other voluntary offset mechanisms and the Clean Development Mechanism. What are the challenges here, and what is the best practice for estimating alternative outcomes?
 
-## 3. Practical Perspectives: The Green Impact Fund for Transformation in critical reflection
+#### c) Practical Perspectives: The Green Impact Fund for Transformation in critical reflection
 
 The GIFT sees itself as a mechanism to protect the global environment by incentivizing economic development in the Global South to adopt more sustainable practices. In the Global North, growth in prosperity has been achieved in part through the use and burning of fossil fuels - a growth model that is reaching its natural limits. Supporting green growth is, therefore at the center of GIFT, which entails both opportunities and risks. Therefore, critical-constructive questions regarding GIFT should be at the center of submissions to this chapter.
 
@@ -68,6 +71,10 @@ We seek proposals and submissions in the form of a maximum two-page abstract and
 
 Please be sure to note: Please send submissions in .doc format (NOT as PDF!) with a short CV to [ahollis@ucalgary.ca](mailto:ahollis@ucalgary.ca) by 19 September 2023.
 
-**For more information on the Green Impact Fund for Transformation:**
+<br>
 
-**[Green Impact Fund White Paper](https://bit.ly/GIFTdp2023)**
+<center>
+
+For more information on the _Green Impact Fund for Transformation_ see the **[White Paper](/white-paper)**
+
+</center>
