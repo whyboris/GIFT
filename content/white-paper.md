@@ -1,5 +1,5 @@
 ---
-title: White Paper GIFT
+title: White Paper
 date: '2023-03-03'
 ---
 
