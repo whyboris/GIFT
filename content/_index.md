@@ -3,7 +3,7 @@ title: GIFT
 date: '2023-03-03'
 ---
 
-## Greenhouse Gas Emissions Need to be Addressed Globally {{< pdf url="lol.pdf" >}}
+## Greenhouse Gas Emissions Need to be Addressed Globally {{< pdf url="GIFT_Green_Impact_Fund_for_Transformation" >}}
 
 From a climatic perspective, it doesn’t matter where greenhouse gas emissions come from, and so there is an urgent need to assist developing countries to reduce their emissions. Rich countries have committed $100bn per year to assist developing countries in both mitigation and adaptation to climate change. But what’s the best way of allocating that money? The Green Impact Fund for Transformation is a market-based mechanism that can ensure both fairness and efficiency.
 

@@ -3,7 +3,7 @@ title: White Paper
 date: '2023-03-03'
 ---
 
-# White paper {{< pdf url="lol.pdf" >}}
+# White paper {{< pdf url="White_Paper_GIFT_Green_Impact_Fund_for_Transformation" >}}
 
 The _Green Impact Fund for Transformation_ (GIFT) is a proposed market-based mechanism to support efficient reduction of greenhouse gas emissions in developing countries. We are seeking your views and comments, including on the feasibility and the value of such a fund. Thanks to extensive input from many individuals, this discussion of the GIFT is substantially revised as of April 2023.
 

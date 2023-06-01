@@ -11,3 +11,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   images = ["img/social.png"]
   production = true
   description = "Green Impact Fund for Transformation"
+  pdf = false

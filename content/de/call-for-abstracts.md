@@ -6,7 +6,7 @@ date: '2023-03-03'
 <img src="/img/springer-logo.svg" class="abstract-image" alt="Springer logo" width="170">
 <img src="/img/UCalgary.svg" class="abstract-image" alt="University of Calgary logo" with="200">
 
-# Call for Abstracts {{< pdf url="lol.pdf" >}}
+# Call for Abstracts {{< pdf url="Call_for_Abstracts_GIFT_Green_Impact_Fund_for_Transformation_DE" >}}
 
 <center>
 
