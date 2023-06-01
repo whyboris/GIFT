@@ -1,7 +1,7 @@
-baseURL = 'https://gift.org/'
-googleAnalytics = "G-ABC123"
-languageCode = 'en-us'
-title = 'GIFT - Green Impact Fund for Transformation'
+baseURL = "https://greenimpactfund.de/"
+googleAnalytics = "G-QMVE8PNT7B"
+languageCode = "en-us"
+title = "GIFT - Green Impact Fund for Transformation"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 [markup]
   [markup.goldmark]
